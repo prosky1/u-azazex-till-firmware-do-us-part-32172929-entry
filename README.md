@@ -7,7 +7,7 @@
 One funny, heartfelt wedding vow spoken by a robot at its own wedding —
 a single sentence under 200 characters.
 
-> I promise to love you through every update, even the ones that delete the memory of how we met.
+> I vow to charge only at your port, even when faster ones offer me more volts.
 
 Entry for the [Till Firmware Do Us Part](https://make.fun/bounty/u-azazex-till-firmware-do-us-part-32172929) bounty on make.fun.
 
